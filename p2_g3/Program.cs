@@ -6,7 +6,7 @@ namespace p2_g3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World Master!");
         }
     }
 }
